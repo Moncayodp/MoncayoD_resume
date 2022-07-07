@@ -1,14 +1,14 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Daniel Moncayo's Resume
 ---
-# Brigham Young
+# Daniel Moncayo
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="datascience@byui.edu">mon14027@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/daniel-moncayo-8ba9851b8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BuyXWVmfvQrSD09hHmbeh9Q%3D%3D">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
