@@ -28,7 +28,7 @@ __Queensborough Community College__, Queens, NY
 
 - Associate Degree in Business Administration
 
-### Internships
+## Internships
 `January 2022 - March 2022`
 __PricewaterhouseCoopers__, Salt Lake City, UT
 
@@ -57,14 +57,14 @@ __Uber__, New York City, NY
 end.
 
 
-### Projects
+## Projects
 
 -  Started a cosmetic retail business where I participate in decisions such as: investments in new products or hiring new employees.
 - Created a professional spreadsheet in excel for inventory. Where can analyze around 6000 products in a faster and more
 understandable way.
 -  Conducted independent research on cosmetics suppliers to get best brands, variety on products on affordable make up for consumers.
 
-### Leadership/Interests/Skills/Awards
+## Leadership/Interests/Skills/Awards
 
 -  Fluency in the Spanish language, including the ability to read, write, and speak.
 - Accelerated study in associate program certificate in recognition of completion of Degree requirements.
