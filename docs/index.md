@@ -6,7 +6,8 @@ title: Daniel Moncayo's Resume
 
 <div id="webaddress">
 <a href="datascience@byui.edu">mon14027@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+| <a href="https://www.byui.edu/majors/accounting-(bs)">Accounting Program</a>
+| <a href="https://www.byui.edu/catalog/#/programs/NyV_tJqAW">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/daniel-moncayo-8ba9851b8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BuyXWVmfvQrSD09hHmbeh9Q%3D%3D">LinkedIn</a>
 | <a href="https://moncayodp.github.io/MoncayoD_resume/">GitHub</a>
 </div>
