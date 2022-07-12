@@ -9,7 +9,7 @@ title: Daniel Moncayo's Resume
 | <a href="https://www.byui.edu/majors/accounting-(bs)">Accounting Program</a>
 | <a href="https://www.byui.edu/catalog/#/programs/NyV_tJqAW">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/daniel-moncayo-8ba9851b8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BuyXWVmfvQrSD09hHmbeh9Q%3D%3D">LinkedIn</a>
-| <a href="https://moncayodp.github.io/MoncayoD_resume/">GitHub</a>
+| <a href="https://github.com/Moncayodp">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
